@@ -74,6 +74,7 @@ public class OccupancyEstimator {
                 break;
             }
         }
+        System.out.println("c: " +  c);
         return c;   
     }   
     
